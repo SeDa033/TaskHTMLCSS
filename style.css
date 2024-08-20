@@ -1,0 +1,79 @@
+body {
+    background-color:rgb(166, 156, 157);
+}
+
+header {
+    
+    text-align: center;
+    
+}
+h1{
+    font-family: 'Sonsie One', cursive;
+    color: white;
+}
+article{
+    color: black;
+    background-color: white;
+
+}
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+footer{
+    background-color: white;
+}
+
+.Navigation {
+    background-color:rgb(231, 129, 223);
+    display:flex;
+    justify-content:space-between ;
+    align-items: center;
+
+
+}
+.Submit{
+    background-color: black;
+    color: white;
+    justify-content:space-between ;
+    align-items: center;
+    
+}
+
+.nav-menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    color:black
+}
+.nav-menu  li{
+    margin: 0;
+}
+.nav-menu a{
+    display: block;
+    color:black;
+    padding: 28px 40px;
+    text-decoration: none;
+    font-size: xx-large;
+}
+.Article-heading{
+    font-family: 'Sonsie One', cursive;
+    text-align: center;
+}
+.Subsection{
+    font-family: 'Sonsie One', cursive;
+
+}
+.Another-subsection{
+    font-family: 'Sonsie One', cursive;
+
+}
+.Related{
+    font-family: 'Sonsie One', cursive;
+
+}
+.Side{
+    background-color: white;
+
+}
